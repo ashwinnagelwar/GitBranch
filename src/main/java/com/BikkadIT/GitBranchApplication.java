@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitBranchApplication {
 
 	String s1="Ashwin";
+	String s2="Rajanikant";
 	public static void main(String[] args) {
 		SpringApplication.run(GitBranchApplication.class, args);
 	}
